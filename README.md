@@ -1,6 +1,35 @@
 # Python Cheat Sheet for Coding Interviews
 
 ## Data Structures
+- [Lists](#lists)
+- [Dictionaries](#dictionaries)
+- [Sets](#sets)
+- [Tuples](#tuples)
+- [Deque (Double-ended Queue)](#deque-double-ended-queue)
+- [Heaps (Priority Queue)](#heaps-priority-queue)
+
+## Common Algorithms & Techniques
+- [Sorting](#sorting)
+- [Binary Search](#binary-search)
+- [Two Pointers](#two-pointers)
+- [Sliding Window](#sliding-window)
+- [Graph Traversals](#graph-traversals)
+  - [BFS (Breadth-First Search)](#bfs-breadth-first-search)
+  - [DFS (Depth-First Search)](#dfs-depth-first-search)
+- [Dynamic Programming](#dynamic-programming)
+  - [Memoization (Top-down)](#memoization-top-down)
+  - [Tabulation (Bottom-up)](#tabulation-bottom-up)
+
+## Time Complexity Reference
+
+## Python Tips & Tricks
+- [One-liners](#one-liners)
+- [Constants and Infinity](#constants-and-infinity)
+- [Built-ins for Interviews](#built-ins-for-interviews)
+- [Common Regex Patterns](#common-regex-patterns)
+- [Debugging Helpers](#debugging-helpers)
+
+## Data Structures
 
 ### Lists
 ```python

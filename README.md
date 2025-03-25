@@ -1,5 +1,7 @@
 # Python Cheat Sheet for Coding Interviews
 
+<br>
+
 ## Data Structures
 - [Lists](#lists)
 - [Dictionaries](#dictionaries)
@@ -31,11 +33,9 @@
 - [Debugging Helpers](#debugging-helpers)
 
 <br>
-<br>
 
 ---
 
-<br>
 <br>
 
 ## Data Structures

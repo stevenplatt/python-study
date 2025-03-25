@@ -21,7 +21,7 @@
   - [Tabulation (Bottom-up)](#tabulation-bottom-up)
 
 ## Time Complexity Reference
-- [Time Complexity Reference](time-complexity-reference)
+- [Time Complexity Reference](time-complexity-reference-1)
 
 ## Python Tips & Tricks
 - [One-liners](#one-liners)
